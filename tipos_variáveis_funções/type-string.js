@@ -8,4 +8,4 @@ const MeuNome = 'Nanda';
 
 //Concatenação - Usa o sinal de mais para juntar 
 
-console.log(citacao + MeuNome)
+console.log(citacao + MeuNome);
